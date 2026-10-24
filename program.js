@@ -7,7 +7,7 @@ const questions = [
     {
         question: "Who announced at 1:00 AM on June 25, 2026, that part of Yablokostan was captured?",
         options: ["Veseloe Yabloko", "Potuzhniy Mopsik", "The King and leader of Latvia", "The NBP Communists"],
-        answer: 2
+        answer: 0
     },
     {
         question: "What platform did Yablokostan officially switch to on July 29?",
